@@ -9,7 +9,7 @@ baseurl                  : ""
 repository               : "flowerey/flowerey.github.io"
 
 author:
-  avatar           : "profile.png"
+  avatar           : "profile.gif"
   name             : "flower"
   pronouns         : "they/them"
   bio              : "I make torrent stuff"
