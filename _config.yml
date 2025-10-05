@@ -53,8 +53,8 @@ atom_feed:
   hide                   : true
   path                   : 
 
-og_image                 :  kuroko.jpeg
-og_description           :  "flower's cool site"
+og_image                 : kuroko.jpeg
+og_description           : "flower's cool site"
 
 include:
   - .htaccess
