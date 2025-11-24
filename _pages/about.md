@@ -45,8 +45,6 @@ I've been admin and moderator in several communities over the months, and it’s
 - FearNoPeer — Admin, Internal
 - Yoinked — Torrent Moderator
 
----
-
 ## Contact
 You can find my links by clicking Website in the left.
 If it's not there, it's not me.
